@@ -7,7 +7,7 @@ Show some of the work in home improvement layout in the past two years (Not full
 
 
 
-[Floor_plan_recognition ReadME](./Floor_plan_recognition/README.md)
+[ReadMe.md](https://github.com/startnew/layout_worker_show/blob/main/Floor_plan_recognition/ReadMe.md)
 
 
 
