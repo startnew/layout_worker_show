@@ -1,24 +1,16 @@
 # layout_worker_show
-展示这两年在家装布局方面的部分工作
+Show some of the work in home improvement layout in the past two years (Not fully organized)
 
-## 房间吊顶布局
+## 
 
-### 客餐厅
-|  2d图   | 3d效果图  |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
-
-### 卧室
+### Floor_plan_recognition
 
 
-### 厨房
+
+[Floor_plan_recognition ReadME](./Floor_plan_recognition/README.md)
 
 
-### 卫生间
 
+Ceilling_layout
 
-### 阳台
-
-### 书房
-
+[ceilling_layout ReadMe](./ceilling_layout/README.md)
